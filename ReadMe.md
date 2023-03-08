@@ -1,12 +1,12 @@
-# K-Means clustering
+п»ї# K-Means clustering
 
 Sketch implementation for the case when you get array of 3D-points (as a 3-floats arrays) and return clusters coordinates
 
 # References
 
-- [Кластеризация: алгоритмы k-means и c-means](https://habr.com/ru/post/67078/)
-- [#32. Задачи кластеризации. Постановка задачи | Машинное обучение](https://www.youtube.com/watch?v=eMIvpOjnkbY&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=33)
-- [#33. Алгоритм кластеризации Ллойда (K-средних, K-means) | Машинное обучение](https://www.youtube.com/watch?v=8vCuR1AndH0&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=34)
+- [РљР»Р°СЃС‚РµСЂРёР·Р°С†РёСЏ: Р°Р»РіРѕСЂРёС‚РјС‹ k-means Рё c-means](https://habr.com/ru/post/67078/)
+- [#32. Р—Р°РґР°С‡Рё РєР»Р°СЃС‚РµСЂРёР·Р°С†РёРё. РџРѕСЃС‚Р°РЅРѕРІРєР° Р·Р°РґР°С‡Рё | РњР°С€РёРЅРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ](https://www.youtube.com/watch?v=eMIvpOjnkbY&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=33)
+- [#33. РђР»РіРѕСЂРёС‚Рј РєР»Р°СЃС‚РµСЂРёР·Р°С†РёРё Р›Р»РѕР№РґР° (K-СЃСЂРµРґРЅРёС…, K-means) | РњР°С€РёРЅРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ](https://www.youtube.com/watch?v=8vCuR1AndH0&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=34)
   - [machine_learning](https://github.com/selfedu-rus/machine_learning)
     - [machine_learning_33_animate.py](https://github.com/selfedu-rus/machine_learning/blob/main/machine_learning_33_animate.py)
       - [Error "Import Error: No module named numpy" on Windows](https://stackoverflow.com/questions/7818811/error-import-error-no-module-named-numpy-on-windows)
