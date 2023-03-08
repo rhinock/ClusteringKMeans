@@ -5,9 +5,14 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2D", "2D\2D.csproj", "{43B7C11C-185F-4637-81F7-4407F5957F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D", "3D\3D.csproj", "{36E27830-1BF6-470F-A39D-3D1A14273BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3D", "3D\3D.csproj", "{36E27830-1BF6-470F-A39D-3D1A14273BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{C1744B43-30D9-40D6-ABA4-F50A3FF29637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{C1744B43-30D9-40D6-ABA4-F50A3FF29637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F5AFACF-C9C7-4647-992B-262E13558B82}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
